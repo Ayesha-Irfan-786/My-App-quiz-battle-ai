@@ -1,0 +1,6 @@
+{
+  "name": "Quiz Battle AI",
+  "description": "A fast-paced, AI-powered trivia game where questions are generated in real-time. Test your knowledge across multiple categories with different difficulty levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

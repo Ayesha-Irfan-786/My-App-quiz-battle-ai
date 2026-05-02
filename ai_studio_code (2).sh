@@ -1,0 +1,1 @@
+docker run -p 8080:80 -e GEMINI_API_KEY=your_actual_key quiz-battle-ai
